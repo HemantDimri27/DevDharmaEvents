@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "id" : 1,
+            "title": "Guitar fundamentals",
+            "slug": "Gritar-for-begginners",
+            "description" : "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.9,
+            "instructor": "John Doe",
+            "isFeatured" : true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id" : 2,
+            "title": "Guitar fundamentals",
+            "slug": "Gritar-for-begginners",
+            "description" : "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.9,
+            "instructor": "John Doe",
+            "isFeatured" : true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id" : 3,
+            "title": "Guitar fundamentals",
+            "slug": "Gritar-for-begginners",
+            "description" : "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.9,
+            "instructor": "John Doe",
+            "isFeatured" : true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id" : 4,
+            "title": "Guitar fundamentals",
+            "slug": "Gritar-for-begginners",
+            "description" : "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.9,
+            "instructor": "John Doe",
+            "isFeatured" : true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id" : 5,
+            "title": "Guitar fundamentals",
+            "slug": "Gritar-for-begginners",
+            "description" : "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.9,
+            "instructor": "John Doe",
+            "isFeatured" : true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id" : 6,
+            "title": "Guitar fundamentals",
+            "slug": "Gritar-for-begginners",
+            "description" : "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.9,
+            "instructor": "John Doe",
+            "isFeatured" : true,
+            "image": "/courses/guitar.jpg"
+        }
+    ]
+}
