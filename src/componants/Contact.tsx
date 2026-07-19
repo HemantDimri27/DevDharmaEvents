@@ -28,7 +28,7 @@ export default function Contact() {
 
     // Build the pre-filled WhatsApp message
     const lines = [
-      `🎉 *New Inquiry – DevKarma Events*`,
+      `🎉 *New Inquiry – DevDharma Events*`,
       ``,
       `👤 *Name:* ${form.name}`,
       `📧 *Email:* ${form.email}`,
@@ -93,7 +93,7 @@ export default function Contact() {
             <div className="rounded-xl p-6 flex flex-col gap-5" style={{ background: "rgba(255,255,255,0.03)", border: "1px solid rgba(201,168,76,0.15)" }}>
               <h2 style={{ fontFamily: "var(--font-playfair), serif", fontSize: "18px", color: "#FFFFFF" }}>Get In Touch</h2>
               {[
-                { icon: Mail, text: "devkarmaevents@gmail.com", href: "mailto:devkarmaevents@gmail.com" },
+                { icon: Mail, text: "devdharmaevents@gmail.com", href: "mailto:devdharmaevents@gmail.com" },
                 { icon: Phone, text: "+91 63979 88226", href: "tel:+916397988226" },
                 { icon: MapPin, text: "Mohkampur, Dehradun, Uttarakhand 248018", href: "https://maps.app.goo.gl/wfTTKNUoWdEosd4h6" },
               ].map(({ icon: Icon, text, href }) => (

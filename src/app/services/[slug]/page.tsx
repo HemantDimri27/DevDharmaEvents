@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: Props) {
     const service = eventServices.find((s) => s.slug === slug)
     if (!service) return { title: "Service Not Found" }
     return {
-        title: `${service.title} | DevKarma Events`,
+        title: `${service.title} | DevDharma Events`,
         description: service.description,
     }
 }

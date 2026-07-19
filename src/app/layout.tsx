@@ -35,8 +35,11 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "DevKarma Events | Event Management Company",
-  description: "DevKarma Events — crafting extraordinary experiences. Wedding planning, corporate events, birthday parties, cultural shows, exhibitions & destination events in Dehradun, India.",
+  title: "DevDharma Events | Event Management Company",
+  description: "DevDharma Events — crafting extraordinary experiences. Wedding planning, corporate events, birthday parties, cultural shows, exhibitions & destination events in Dehradun, India.",
+  icons: {
+    icon: "/logo/devdharma-logo-transparent.png",
+  }
 };
 
 export default function RootLayout({

@@ -13,16 +13,29 @@ export default function HeroSection() {
 
       <div className="relative z-10 text-center px-6 pt-20">
         {/* Logo */}
-        <div className="flex justify-center mb-2 relative">
+        <div className="flex justify-center relative">
           <Image
-            src="/logo/devkarma-logo-transparent.png"
-            alt="DevKarma Events Logo"
-            width={380}
-            height={130}
+            src="/logo/devdharma-logo-transparent.png"
+            alt="DevDharma Events Logo"
+            width={280}
+            height={90}
             className="object-contain opacity-100 relative z-10"
             priority
           />
         </div>
+
+        {/* Heading */}
+        <h1
+          className="mb-3 font-normal"
+          style={{
+            fontFamily: "var(--font-great-vibes), cursive",
+            fontSize: "clamp(3rem, 10vw, 7rem)",
+            color: "#C9A84C",
+            lineHeight: 1,
+          }}
+        >
+          Dev Dharma
+        </h1>
 
         {/* Divider + subtitle */}
         <div className="flex items-center justify-center gap-3 mb-6 mt-1">

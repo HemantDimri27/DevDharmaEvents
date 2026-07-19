@@ -4,12 +4,12 @@ import { InfiniteMovingCards } from "@/componants/ui/infinite-moving-cards";
 
 const testimonials = [
   {
-    quote: "DevKarma Events made our wedding an absolute dream. Every detail — from the mandap décor to the farewell — was handled with such care and creativity. We didn't have to worry about a single thing!",
+    quote: "DevDharma Events made our wedding an absolute dream. Every detail — from the mandap décor to the farewell — was handled with such care and creativity. We didn't have to worry about a single thing!",
     name: "Priya & Rahul Sharma",
     title: "Wedding Event Client",
   },
   {
-    quote: "We hired DevKarma Events for our annual corporate conference and they delivered beyond expectations. The AV setup, seating arrangements, and speaker coordination were all impeccable. Truly professional.",
+    quote: "We hired DevDharma Events for our annual corporate conference and they delivered beyond expectations. The AV setup, seating arrangements, and speaker coordination were all impeccable. Truly professional.",
     name: "Amit Gupta, CEO",
     title: "Corporate Event Client",
   },
@@ -19,12 +19,12 @@ const testimonials = [
     title: "Birthday Party Client",
   },
   {
-    quote: "DevKarma Events managed our company's product launch flawlessly. From the venue branding to the live demonstration setup, everything was aligned perfectly with our brand identity. Outstanding work!",
+    quote: "DevDharma Events managed our company's product launch flawlessly. From the venue branding to the live demonstration setup, everything was aligned perfectly with our brand identity. Outstanding work!",
     name: "Vikram Malhotra",
     title: "Corporate Event Client",
   },
   {
-    quote: "Our destination wedding in the hills was a fairy tale come true. DevKarma handled travel logistics, local vendors, and on-site coordination so beautifully — we felt like guests at our own wedding!",
+    quote: "Our destination wedding in the hills was a fairy tale come true. DevDharma handled travel logistics, local vendors, and on-site coordination so beautifully — we felt like guests at our own wedding!",
     name: "Neha & Arjun Kapoor",
     title: "Destination Wedding Client",
   },

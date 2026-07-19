@@ -35,7 +35,7 @@ export default function WhyChooseUs() {
             className="text-xs tracking-[0.4em] uppercase mb-3"
             style={{ fontFamily: "Inter, sans-serif", color: "#C9A84C" }}
           >
-            Why DevKarma
+            Why DevDharma
           </p>
           <h2
             style={{

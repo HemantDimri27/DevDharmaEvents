@@ -18,16 +18,16 @@ export default function Footer() {
               color: "#C9A84C",
             }}
           >
-            DevKarma Events
+            DevDharma Events
           </p>
           <p style={{ fontFamily: "Inter, sans-serif", fontSize: "13px", color: "rgba(255,255,255,0.4)", lineHeight: 1.6 }}>
             Crafting extraordinary experiences, one event at a time. Dehradun, India.
           </p>
           <div className="flex gap-4 mt-2">
             {[
-              { icon: Instagram, href: "https://www.instagram.com/devkarmaevents" },
-              { icon: Facebook, href: "https://www.facebook.com/devkarmaevents" },
-              { icon: Youtube, href: "https://www.youtube.com/@devkarmaevents" },
+              { icon: Instagram, href: "https://www.instagram.com/devdharmaevents" },
+              { icon: Facebook, href: "https://www.facebook.com/devdharmaevents" },
+              { icon: Youtube, href: "https://www.youtube.com/@devdharmaevents" },
             ].map(({ icon: Icon, href }) => (
               <a key={href} href={href} target="_blank" rel="noopener noreferrer" className="transition-colors duration-200" style={{ color: "rgba(255,255,255,0.35)" }}>
                 <Icon size={18} />
@@ -96,7 +96,7 @@ export default function Footer() {
 
       <div style={{ borderTop: "1px solid rgba(255,255,255,0.06)" }}>
         <div className="max-w-7xl mx-auto px-6 py-4 flex flex-col md:flex-row items-center justify-between gap-2">
-          <p style={{ fontFamily: "Inter, sans-serif", fontSize: "12px", color: "rgba(255,255,255,0.25)" }}>© {new Date().getFullYear()} DevKarma Events. All rights reserved.</p>
+          <p style={{ fontFamily: "Inter, sans-serif", fontSize: "12px", color: "rgba(255,255,255,0.25)" }}>© {new Date().getFullYear()} DevDharma Events. All rights reserved.</p>
           <p style={{ fontFamily: "Inter, sans-serif", fontSize: "12px", color: "rgba(255,255,255,0.25)" }}>Crafted with ♥ in Dehradun, India</p>
         </div>
       </div>

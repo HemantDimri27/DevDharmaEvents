@@ -71,7 +71,7 @@ export default function Navbar() {
             color: "#C9A84C",
           }}
         >
-          DevKarma Events
+          DevDharma Events
         </Link>
 
         {/* Desktop Nav */}

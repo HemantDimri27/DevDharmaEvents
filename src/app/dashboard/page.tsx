@@ -1,7 +1,7 @@
 import Dashboard from "@/componants/Dashboard";
 
 export const metadata = {
-  title: "Dashboard | DevKarma Events",
+  title: "Dashboard | DevDharma Events",
   description: "Monitor the progress of your event projects — from booking and planning to execution and delivery.",
 };
 
